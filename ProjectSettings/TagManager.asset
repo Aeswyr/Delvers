@@ -11,14 +11,14 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - World
+  - Entity
+  - Hitbox
+  - Hurtbox
+  - Interactable
+  - Interact
+  - Pickup
+  - PickupBox
   - 
   - 
   - 
